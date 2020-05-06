@@ -1,0 +1,12 @@
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\bin\Debug\netcoreapp3.1\001 - TiposInteiros.exe
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\bin\Debug\netcoreapp3.1\001 - TiposInteiros.deps.json
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\bin\Debug\netcoreapp3.1\001 - TiposInteiros.runtimeconfig.json
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\bin\Debug\netcoreapp3.1\001 - TiposInteiros.runtimeconfig.dev.json
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\bin\Debug\netcoreapp3.1\001 - TiposInteiros.dll
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\bin\Debug\netcoreapp3.1\001 - TiposInteiros.pdb
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\obj\Debug\netcoreapp3.1\001 - TiposInteiros.csproj.CoreCompileInputs.cache
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\obj\Debug\netcoreapp3.1\001 - TiposInteiros.AssemblyInfoInputs.cache
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\obj\Debug\netcoreapp3.1\001 - TiposInteiros.AssemblyInfo.cs
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\obj\Debug\netcoreapp3.1\001 - TiposInteiros.dll
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\obj\Debug\netcoreapp3.1\001 - TiposInteiros.pdb
+D:\opt\fontes\Alura\Certificação CSharp\001 - TiposInteiros\obj\Debug\netcoreapp3.1\001 - TiposInteiros.genruntimeconfig.cache
